@@ -8,7 +8,7 @@ from tkinter import filedialog
 class Root(Tk):
     def __init__(self):
         super(Root, self).__init__()
-        self.title("Python Tkinter Dialog Widget")
+        self.title("Embry Image Analysis")
         self.minsize(640, 400)
         self.wm_iconbitmap('icon.ico')
  
